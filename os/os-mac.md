@@ -186,6 +186,7 @@ defaults write com.apple.screencapture type -string "png"
 - [ ] Pttrns.com
 - [ ] Slack
 - [ ] xScope 4
+- [ ] [CommanderOne](https://mac.eltima.com/file-manager.html)
 
 ### term
 - install [solarized theme](http://ethanschoonover.com/solarized)
